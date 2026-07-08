@@ -1,4 +1,4 @@
 ## Nikitas Marmatakis
-Software Developer & CS Student
+Software Engineer & CS Student
 
 [marmatakis.dev](marmatakis.dev)
