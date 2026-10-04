@@ -1,4 +1,4 @@
 ## Nikitas Marmatakis
 Software Engineer | Full-Stack & Backend Development | Python, FastAPI & React | API Integration
 
-Computer Science BSc @ Charles University, 2029
+BSc Computer Science Charles University, 2029
